@@ -1,1 +1,0 @@
-# suite-auth-trezor.github.io
